@@ -1,0 +1,261 @@
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\appsettings.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.exe
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.csprojAssemblyReference.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.AssemblyInfoInputs.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.AssemblyInfo.cs
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.RazorTargetAssemblyInfo.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\staticwebassets\TuberAPI.StaticWebAssets.Manifest.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\staticwebassets\TuberAPI.StaticWebAssets.xml
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.deps.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.runtimeconfig.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.runtimeconfig.dev.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.pdb
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.csproj.CopyComplete
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.pdb
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.genruntimeconfig.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.csproj.CoreCompileInputs.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\Project Implementation\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.MvcApplicationPartsAssemblyInfo.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\appsettings.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.exe
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.deps.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.runtimeconfig.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.runtimeconfig.dev.json
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\TuberAPI.pdb
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.csprojAssemblyReference.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.AssemblyInfoInputs.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.AssemblyInfo.cs
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.RazorTargetAssemblyInfo.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.csproj.CopyComplete
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\staticwebassets\TuberAPI.StaticWebAssets.Manifest.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\staticwebassets\TuberAPI.StaticWebAssets.xml
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.pdb
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.genruntimeconfig.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.csproj.CoreCompileInputs.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.MvcApplicationPartsAssemblyInfo.cache
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+X:\Me\learning\U.J\3rd year\1st Semester\IFM03A3\Year Project\TuberApi\team05\TuberAPI\TuberAPI\TuberAPI\obj\Debug\netcoreapp3.1\TuberAPI.MvcApplicationPartsAssemblyInfo.cs
